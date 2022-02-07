@@ -5,7 +5,7 @@
 - 📫 Reach me through
   - 📧 Email: ajaykundukade@gmail.com
   - 📱 Phone: +917025950023
-  - 📂 Personal Resume: https://docs.google.com/document/d/1Ld6LRwillpr_k1K8j4qsSqcxmsEm4CkI/edit?usp=drivesdk&ouid=109162093597713464205&rtpof=true&sd=true
+  - 📂 Personal Resume: https://drive.google.com/file/d/1RgtlICEpnmxpHcf9xZjVx0G3q4XCbqiP/view?usp=sharing
 <!---
 ajayksivadasan/ajayksivadasan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
