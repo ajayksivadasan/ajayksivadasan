@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajayksivadasan
 - 👀 I’m interested in Android Application Development
-- 🌱 I’m currently learning and developing Android Application with java
+- 🌱 I’m currently developing Android Applications with Java
 - 💞️ I’m looking to collaborate on Android Java, Android Kotlin
 - 📫 Reach me through
   - 📧 Email: ajaykundukade@gmail.com
